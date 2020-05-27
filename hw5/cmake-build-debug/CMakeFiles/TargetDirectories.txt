@@ -1,0 +1,3 @@
+C:/CIE/lsolovy/homework/hw5/cmake-build-debug/CMakeFiles/Bejeweled.dir
+C:/CIE/lsolovy/homework/hw5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CIE/lsolovy/homework/hw5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

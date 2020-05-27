@@ -1,0 +1,3 @@
+C:/CIE/lsolovy/homework/hw1/cmake-build-debug/CMakeFiles/hw1.dir
+C:/CIE/lsolovy/homework/hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CIE/lsolovy/homework/hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
